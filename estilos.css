@@ -3,8 +3,7 @@
     src: url(./fonte/Azonix.otf);
 }
 :root{
-    
-    --degrade-verdeAzul: linear-gradient(97.54deg, #002383 0%, #00297A 100%);
+    --degrade-verdeAzul: linear-gradient(97.54deg, #002383 0%, #006F3D 100%);
     --degrade-secudario:linear-gradient(90deg, #049252b2  20%, #0835b3  100%); 
     --degrade-terceiro:linear-gradient(200deg, #002383 35%, #0bb166 100%);  
     --fonte-principal: "Montserrat", sans-serif;
