@@ -222,8 +222,11 @@
         padding: 0.5;
     }
 
-
+    
+    
+    
     .list__nav {
+        justify-content: space-around;
         gap: 90px;
     }
 

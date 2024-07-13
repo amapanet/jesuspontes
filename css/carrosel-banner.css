@@ -4,13 +4,15 @@
 }
 
 .swiper-slide {
-    background-image: url(../img/planos\ -\ slide1.png);
+    background-image: url(../img/planos\ -\ slide1.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
+    padding: 7rem 0 ;
+   
 }
 
 .separado-filho {
@@ -215,6 +217,7 @@
 @media screen and (min-width: 1028px){
     .swiper-slide {
         height: 85vh;
+        padding: 10rem 0;
        
     }
    
