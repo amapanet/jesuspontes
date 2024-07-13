@@ -19,14 +19,13 @@
 }
 
 .planos__titulo,
-.planos__titulo-titulo {
-    background: var(--degrade-verdeAzul);
-    background-clip: text;
-    color: transparent;
+.planos__titulo-titulo {   
+  
     display: inline-block;
     font-size: 1.2em;
     text-transform: uppercase;
-    -webkit-background-clip: text;
+    
+    color: #00297A;
 }
 
 .planos__titulo-titulo {
@@ -75,7 +74,7 @@
 }
 
 .planos__plano1 {
-    font-size: 6em;
+    font-size: 1.5em;
     position: relative;
 
 }
@@ -129,7 +128,8 @@
 
 .planos-plano-preco {
     text-shadow: 0px 2px 10px var(--azul);
-    font-size: 2em;
+    font-size: 1em;
+    text-transform: lowercase;
     font-weight: 700;
     margin: 0.6em 0 1em 0;
 }
